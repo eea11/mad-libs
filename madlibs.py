@@ -24,4 +24,5 @@ person = raw_input("> ")
 # Here, I ouput all the before entered information.
 # %s outputs the information if it is a string.
 print "So %s is at %s %s while eating %s with %s,." % (
-		name, place1, verb1, food1, person)
+    name, place1, verb1, food1, person)
+
